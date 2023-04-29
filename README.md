@@ -19,3 +19,4 @@
 
 ## Introduction to SQL: [Go to SQL Assignment page](./SQL.md)
 ---
+## Practice in the Terminal: [Go to Terminal Assignment page](./Terminal.md)
