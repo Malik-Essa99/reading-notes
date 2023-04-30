@@ -32,5 +32,6 @@
 ## Growth Mindset: [Go to Growth Mindset page](./Mindset.md)
 
 ---
+# Classes
 
 ## Class01: [Go to Class01 page](./Class01.md)
