@@ -24,3 +24,5 @@
 ## Data Structures and Algorithms: [Go to Data Structures and Algorithms page](./DataStructuresAndAlgo.md)
 
 ## Engineering Readings: [Go to Engineering Readings page](./EngineeringReadings.md)
+
+## Introduction to SQL: [Go to SQL Assignment page](./Mindset.md)
