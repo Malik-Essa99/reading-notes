@@ -20,3 +20,4 @@
 ## Introduction to SQL: [Go to SQL Assignment page](./SQL.md)
 ---
 ## Practice in the Terminal: [Go to Terminal Assignment page](./Terminal.md)
+## Data Structures and Algorithms: [Go to Data Structures and Algorithms page](./DataStructuresAndAlgo.md)
