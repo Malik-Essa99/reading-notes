@@ -3,18 +3,22 @@
 *this website's purpose is to to practice on python prgramming language and to post my personal notes.
 
 ---
+
 ## Code 102 - Intro to Software Development
 
 
 ---
+
 ## Code 201 - Foundations of Software Development
 
 
 ---
+
 ## Code 301 - Intermediate Software Development
 
 
 ---
+
 ## Code 401 - Advanced Software Development
 
 ## Introduction to SQL: [Go to SQL Assignment page](./SQL.md)
@@ -25,4 +29,8 @@
 
 ## Engineering Readings: [Go to Engineering Readings page](./EngineeringReadings.md)
 
-## Introduction to SQL: [Go to SQL Assignment page](./Mindset.md)
+## Growth Mindset: [Go to Growth Mindset page](./Mindset.md)
+
+---
+
+## Class01: [Go to Class01 page](./Class01.md)
