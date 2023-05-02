@@ -6,16 +6,13 @@
 
 ## Code 102 - Intro to Software Development
 
-
 ---
 
 ## Code 201 - Foundations of Software Development
 
-
 ---
 
 ## Code 301 - Intermediate Software Development
-
 
 ---
 
@@ -38,6 +35,7 @@
 | Class:      | Link         |
 | ----------- | -----------  |
 |  Class01    | [Go to Class01 page](./Classes/Class01.md) |
+|  Class02    | [Go to Class02 page](./Classes/Class02.md) |
 
 # Labs
 
