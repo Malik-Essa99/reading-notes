@@ -34,4 +34,14 @@
 ---
 # Classes
 
-## Class01: [Go to Class01 page](./Class01.md)
+
+| Class:      | Link         |
+| ----------- | -----------  |
+|  Class01    | [Go to Class01 page](./Classes/Class01.md) |
+
+# Labs
+
+| Labs             | Column 2 Heading |
+| ---------------- | ---------------- |
+|  Lab01           |  [Lab01](https://github.com/Malik-Essa99/snakes-cafe)|
+
