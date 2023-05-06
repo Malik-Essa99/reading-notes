@@ -32,14 +32,11 @@
 # Classes
 
 
-| Class:      | Link         |
-| ----------- | -----------  |
-|  Class01    | [Go to Class01 page](./Classes/Class01.md) |
-|  Class02    | [Go to Class02 page](./Classes/Class02.md) |
+| Class Number| Link                            |
+| ----------- | ------------------------------- |
+|  1          | [Class01](./Classes/Class01.md) |
+|  2          | [Class02](./Classes/Class02.md) |
+|  3          | [Class03](./Classes/Class03.md) |
 
-# Labs
 
-| Labs             | Column 2 Heading |
-| ---------------- | ---------------- |
-|  Lab01           |  [Lab01](https://github.com/Malik-Essa99/snakes-cafe)|
 
