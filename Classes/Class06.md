@@ -1,4 +1,4 @@
-# Class 04
+# Class 06
 
 ## Q1. How can the random module be utilized in Python to generate random numbers or make selections from a list, and what are some common functions available within the module?
 

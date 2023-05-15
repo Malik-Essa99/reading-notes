@@ -40,6 +40,7 @@
 |  4          | [Class04](./Classes/Class04.md) |
 |  5          | [Class05](./Classes/Class05.md) |
 |  6          | [Class06](./Classes/Class06.md) |
+|  7          | [Class07](./Classes/Class07.md) |
 
 
 
