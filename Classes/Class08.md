@@ -1,0 +1,3 @@
+# Stacks and Queues
+
+A queue is an abstract data type commonly used in computer science and programming. It follows the First in first out (FIFO) principle, similar to waiting in a line or queue in real life. Elements are added to the back of the queue (enqueue) and removed from the front (dequeue). A queue can be implemented using arrays or linked lists. Its key features include enqueue, dequeue, front, rear, size, isEmpty, and peek operations. Understanding queues helps in managing elements in an ordered manner and solving problems requiring orderly data processing.
