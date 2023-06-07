@@ -9,3 +9,5 @@
 ## Growth Mindset: [Go to Growth Mindset page](./Mindset.md)
 
 ## Stacks and Queues: [Stacks and Queues](./Data_structure/Stacks_and_Queues.md)
+
+## Trees: [Trees](./Data_structure/Trees.md)
