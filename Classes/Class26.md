@@ -1,6 +1,7 @@
-# Class 26
+## Class 26
 
 ### Q1. What are the key components of the Django framework, and how do they contribute to building a web application?
+
 
 
 + Models: Define the data structure and handle database operations.
