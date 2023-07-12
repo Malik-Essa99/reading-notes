@@ -11,6 +11,7 @@ Example:
        / \   \
       D   E   F
 
+
 + Pre-order traversal: In pre-order traversal, we visit the root node first, then traverse the left subtree, and finally traverse the right subtree. The order of operations is root-left-right.
 
 
