@@ -11,3 +11,5 @@
 ## Stacks and Queues: [Stacks and Queues](./Data_structure/Stacks_and_Queues.md)
 
 ## Trees: [Trees](./Data_structure/Trees.md)
+
+## Hash Tables: [Hash tables](./Data_structure/Hash_tables.md)
