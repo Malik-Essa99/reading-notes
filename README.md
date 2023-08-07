@@ -49,6 +49,7 @@
 |  31                 | [Class31](./Classes/Class31.md)       |
 |  32                 | [Class32](./Classes/Class32.md)       |
 |  34                 | [Class34](./Classes/Class34.md)       |
+|  36                 | [Class36](./Classes/Class36.md)       |
 
 
 
